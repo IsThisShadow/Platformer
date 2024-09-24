@@ -1,7 +1,7 @@
-[gd_scene load_steps=14 format=3 uid="uid://dc3g26nir8y4i"]
+[gd_scene load_steps=14 format=3 uid="uid://cjolt1dfvbniv"]
 
 [ext_resource type="Script" path="res://scripts/Bat.gd" id="1_mvubf"]
-[ext_resource type="Texture2D" uid="uid://dv0lyi5bpgmd1" path="res://assets/Flight.png" id="2_7imos"]
+[ext_resource type="Texture2D" path="res://assets/Flight.png" id="2_7imos"]
 [ext_resource type="PackedScene" uid="uid://c7wt3bq3rdl65" path="res://scenes/killzone.tscn" id="3_74r7n"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_kkp05"]
